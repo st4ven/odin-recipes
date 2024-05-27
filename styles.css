@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    color:white;
+    background-color: #a28089;
+    font-size: 30px;
+    font-family: "Skranji", system-ui;
+}
+
+a {
+    text-decoration: none;
+}
+
+a.lasagna:visited { text-decoration: none; color:#B9484E }
+a.lasagna:hover { text-decoration: none; color:#B9484E}
+a.lasagna:focus { text-decoration: none; color:#B9484E }
+a.lasagna:hover, a:active { text-decoration: none; color:#B9484E }
+
+a.katsu:visited { text-decoration: none; color:#d4cc9a }
+a.katsu:hover { text-decoration: none; color:#d4cc9a}
+a.katsu:focus { text-decoration: none; color:#d4cc9a }
+a.katsu:hover, a:active { text-decoration: none; color:#d4cc9a }
+
+a.steak:visited { text-decoration: none; color:#964B00 }
+a.steak:hover { text-decoration: none; color:#964B00}
+a.steak:focus { text-decoration: none; color:#964B00 }
+a.steak:hover, a:active { text-decoration: none; color:#964B00 }
