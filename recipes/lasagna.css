@@ -1,0 +1,15 @@
+body {
+    color:white;
+    background-color: #a28089;
+    font-size: 30px;
+    font-family: "Skranji", system-ui;
+    text-align:center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-position: inside;
+}
