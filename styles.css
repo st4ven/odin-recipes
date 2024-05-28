@@ -12,11 +12,15 @@ a {
 
 .title {
     border: 5px solid white;
+    width: 550px;
+    margin: auto;
+    margin-bottom: 40px;
 }
 
 p {
     margin: 45px;
 }
+
 .lasagna {
     color:white;
     padding: 16px;
