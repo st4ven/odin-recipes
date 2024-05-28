@@ -6,6 +6,20 @@ body {
     text-align:center;
 }
 
+.title {  
+    border: 5px solid white;
+    width: 350px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.main {
+    border: 5px solid white;
+    margin:auto;
+    margin-bottom: 20px;
+    width: 700px;
+}
+
 ul {
     list-style-type: none;
 }
