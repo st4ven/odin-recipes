@@ -11,6 +11,7 @@ a {
 }
 
 .title {
+    background-color: #F9D494;
     border: 5px solid white;
     width: 550px;
     margin: auto;
@@ -22,18 +23,21 @@ p {
 }
 
 .lasagna {
+    border: 3px solid white;
     color:white;
     padding: 16px;
     background-color: #B9484E;
 }
 
 .katsu {
+    border: 3px solid white;
     color:white;
     padding: 16px;
     background-color: #d4cc9a;
 }
 
 .steak {
+    border: 3px solid white;
     color:white;
     padding: 16px;
     background: #964B00;
