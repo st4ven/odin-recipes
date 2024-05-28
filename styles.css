@@ -10,6 +10,18 @@ a {
     text-decoration: none;
 }
 
+.lasagna {
+    color:#B9484E;
+}
+
+.katsu {
+    color:#d4cc9a;
+}
+
+.steak {
+    color:#964B00;
+}
+
 a.lasagna:visited { text-decoration: none; color:#B9484E }
 a.lasagna:hover { text-decoration: none; color:#B9484E}
 a.lasagna:focus { text-decoration: none; color:#B9484E }
